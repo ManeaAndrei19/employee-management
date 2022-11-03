@@ -1,0 +1,23 @@
+{
+    "name": "Manea Andrei",
+    "email": "ma19@yahoo.com",
+    "jobTitle": "Junior Java Developer",
+    "phone": "0754848937",
+    "imageUrl": "https://www.bootdey.com/app/webroot/img/Content/avatar/avatar7.png"
+}
+
+{
+    "name": "Manea Paul",
+    "email": "paul@yahoo.com",
+    "jobTitle": "Administrator",
+    "phone": "0722402253",
+    "imageUrl": "https://www.bootdey.com/app/webroot/img/Content/avatar/avatar1.png"
+}
+
+{
+    "name": "Manea Captalina",
+    "email": "lina@yahoo.com",
+    "jobTitle": "Nurse",
+    "phone": "0751234567",
+    "imageUrl": "https://www.bootdey.com/app/webroot/img/Content/avatar/avatar8.png"
+}
